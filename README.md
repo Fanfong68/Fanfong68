@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there my name is Ching Fan Fong👋
+Currently working as a Software Engineer
 <!--
 **Fanfong68/Fanfong68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
